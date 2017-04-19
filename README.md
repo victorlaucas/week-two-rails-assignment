@@ -14,6 +14,6 @@
 1. Take steps to Fork and Clone GitHub repo onto your local machine, change into root directory.
 2. Run: `bundle install`, `rails db:create`, and `rails db:migrate`.
 3. Run: `rspec` to run tests.
-4. Implement all the requirements necessary to get all of the tests passing.
+4. Implement all the requirements necessary to get the tests passing.
 5. After all tests are passing, `add` and `commit` your code and push it up to your remote fork.
 6. Paste the link to your fork in the end of the week guide page on DevCamp.
